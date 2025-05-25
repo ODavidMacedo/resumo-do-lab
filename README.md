@@ -70,3 +70,14 @@ O enriquecimento de IA é um passo fundamental, onde os dados brutos são analis
 Durante o laboratório, enfrentei desafios práticos que me ajudaram a entender como implementar buscas cognitivas, utilizando o poder da inteligência artificial para melhorar a experiência do usuário e a eficiência da recuperação de dados.
 
 Em resumo, as buscas cognitivas vão além das buscas tradicionais, aplicando inteligência artificial para interpretar o conteúdo e oferecer resultados mais inteligentes e alinhados às necessidades dos usuários.
+
+IA Generativa Responsável e Microsoft Copilot
+
+IA Generativa Responsável
+A inteligência artificial generativa tem o potencial de transformar a maneira como criamos conteúdo, automatizamos tarefas e interagimos com sistemas. Para garantir que essa tecnologia seja usada de forma ética e segura, é fundamental adotar práticas responsáveis durante todo o ciclo de vida dos modelos, incluindo planejamento, monitoramento, mitigação de riscos e operação consciente. A abordagem de IA responsável busca minimizar impactos negativos e garantir transparência, segurança e justiça no uso dos sistemas de IA.
+
+Microsoft Copilot
+O Microsoft Copilot é uma aplicação prática da IA generativa integrada a ferramentas populares, como o Microsoft 365 e o GitHub. Ele atua como um assistente inteligente, ajudando usuários a automatizar tarefas comuns, gerar conteúdos e melhorar a produtividade, tudo de maneira simples e acessível. Os copilotos são projetados para fornecer suporte contextual e facilitar o dia a dia sem substituir o controle do usuário.
+
+Possibilidades do Microsoft Learning
+O Microsoft Learning oferece recursos e treinamentos para capacitar profissionais a entender e aplicar as tecnologias de IA, incluindo a IA generativa. A plataforma disponibiliza cursos, laboratórios e conteúdos que ajudam a construir conhecimentos desde conceitos básicos até implementações avançadas, apoiando o desenvolvimento de soluções responsáveis e inovadoras na nuvem Azure e outras plataformas Microsoft.
