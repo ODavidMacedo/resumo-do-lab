@@ -38,3 +38,24 @@ Os Serviços de Aplicativo são usados para hospedar APIs e aplicações web com
 
 📚 Revisão de Computação e Rede
 Este módulo reforçou como os serviços de computação do Azure se adaptam a diferentes cenários — desde aplicações tradicionais até soluções modernas em contêineres e funções — além de destacar opções de escalabilidade, alta disponibilidade e otimização de custos.
+
+Serviços de IA no Azure – Resumo
+Neste módulo, aprendemos sobre alguns dos principais serviços de Inteligência Artificial (IA) oferecidos pela plataforma Azure da Microsoft, focando em como eles facilitam a análise e interação com dados em linguagem natural.
+
+Análise de Texto e Resposta a Perguntas
+O serviço de Análise de Texto permite extrair informações importantes de textos não estruturados, como identificar frases-chave, sentimentos e entidades. Já o recurso de Resposta a Perguntas ajuda a criar bases de conhecimento para bots, fornecendo respostas inteligentes baseadas em dados.
+
+Serviço de Bot do Azure
+Este serviço possibilita a criação de bots que interagem com usuários de forma natural, utilizando inteligência artificial para compreender e responder perguntas, melhorando a experiência de atendimento automatizado.
+
+Compreensão da Linguagem Coloquial
+Esse recurso ajuda a entender a linguagem falada ou escrita de forma mais natural e informal, permitindo que sistemas interpretem melhor o contexto e a intenção dos usuários.
+
+Conhecendo o Estúdio de Fala
+O Estúdio de Fala no Azure oferece ferramentas para reconhecimento e síntese de voz, possibilitando que aplicações convertam fala em texto e texto em fala com alta precisão.
+
+Conhecendo o Language Studio
+O Language Studio é uma interface que facilita a criação, teste e implantação de modelos de linguagem, incluindo análise de texto, tradução e compreensão da linguagem natural.
+
+Entendendo o Desafio
+Durante o curso, também foram discutidos os desafios relacionados à aplicação da IA, como garantir precisão, evitar vieses e construir modelos que realmente atendam às necessidades do usuário final.
