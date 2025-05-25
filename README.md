@@ -59,3 +59,14 @@ O Language Studio é uma interface que facilita a criação, teste e implantaç�
 
 Entendendo o Desafio
 Durante o curso, também foram discutidos os desafios relacionados à aplicação da IA, como garantir precisão, evitar vieses e construir modelos que realmente atendam às necessidades do usuário final.
+
+Mineração de Conhecimento e Pesquisa Cognitiva no Azure
+Neste módulo, aprendi sobre a mineração de conhecimento, que é o processo de extrair informações valiosas e insights a partir de grandes volumes de dados, usando técnicas avançadas de inteligência artificial e aprendizado de máquina.
+
+A Solução de Pesquisa Cognitiva do Azure possibilita integrar recursos inteligentes de busca em aplicativos, permitindo que as pesquisas não se limitem a palavras-chave, mas compreendam o significado e o contexto dos documentos. Isso resulta em buscas mais precisas e relevantes.
+
+O enriquecimento de IA é um passo fundamental, onde os dados brutos são analisados e aprimorados com informações adicionais, como identificação de entidades, extração de frases-chave e análise de sentimentos, para tornar a informação mais útil e acessível.
+
+Durante o laboratório, enfrentei desafios práticos que me ajudaram a entender como implementar buscas cognitivas, utilizando o poder da inteligência artificial para melhorar a experiência do usuário e a eficiência da recuperação de dados.
+
+Em resumo, as buscas cognitivas vão além das buscas tradicionais, aplicando inteligência artificial para interpretar o conteúdo e oferecer resultados mais inteligentes e alinhados às necessidades dos usuários.
