@@ -18,3 +18,23 @@ CapEx refere-se a investimentos em infraestrutura física, como servidores e dat
 OpEx está relacionado aos custos operacionais de uso, onde você paga apenas pelo que consome, modelo típico da computação em nuvem.
 
 Esses conceitos formam a base para entender como a nuvem funciona e quais são seus benefícios para empresas de todos os tamanhos.
+
+⚙️ Serviços de Computação no Microsoft Azure
+Nesta etapa do curso, explorei os serviços de computação do Azure, que são fundamentais para criar, hospedar e escalar aplicações de forma flexível e eficiente.
+
+🖥️ Máquinas Virtuais no Azure
+As Máquinas Virtuais (VMs) permitem executar sistemas operacionais e aplicativos em servidores virtuais na nuvem. São ideais para quando precisamos de controle total sobre o ambiente de execução.
+
+🧩 Conjuntos de Disponibilidade
+Os Conjuntos de Disponibilidade aumentam a resiliência de aplicações distribuindo VMs em domínios de falha e atualização, reduzindo os impactos de interrupções e garantindo alta disponibilidade.
+
+🪟 Área de Trabalho Virtual e Contêineres
+Com o Azure Virtual Desktop, é possível fornecer ambientes de trabalho completos e seguros a partir da nuvem.
+Já os contêineres oferecem uma maneira leve e portátil de empacotar e executar aplicações com isolamento, agilidade e menor uso de recursos comparado às VMs.
+
+⚡ Azure Functions e Serviços de Aplicativo
+O Azure Functions permite executar código sob demanda sem se preocupar com infraestrutura, seguindo o modelo serverless.
+Os Serviços de Aplicativo são usados para hospedar APIs e aplicações web com escalabilidade automática, segurança integrada e integração com DevOps.
+
+📚 Revisão de Computação e Rede
+Este módulo reforçou como os serviços de computação do Azure se adaptam a diferentes cenários — desde aplicações tradicionais até soluções modernas em contêineres e funções — além de destacar opções de escalabilidade, alta disponibilidade e otimização de custos.
